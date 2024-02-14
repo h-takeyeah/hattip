@@ -880,14 +880,14 @@ importers:
         specifier: workspace:*
         version: link:../../adapter/adapter-node
       '@vavite/connect':
-        specifier: ^4.0.2
-        version: 4.0.2(vite@5.0.12)
+        specifier: ^4.1.0
+        version: 4.1.0(vite@5.0.12)
       '@vavite/multibuild':
-        specifier: ^4.0.2
-        version: 4.0.2(vite@5.0.12)
+        specifier: ^4.1.0
+        version: 4.1.0(vite@5.0.12)
       '@vavite/node-loader':
-        specifier: ^4.0.2
-        version: 4.0.2(vite@5.0.12)
+        specifier: ^4.1.0
+        version: 4.1.0(vite@5.0.12)
       cac:
         specifier: ^6.7.14
         version: 6.7.14
@@ -5416,8 +5416,8 @@ packages:
   /@ungap/structured-clone@1.2.0:
     resolution: {integrity: sha512-zuVdFrMJiuCDQUMCzQaD6KL28MjnqqN8XnAqiEq9PNm/hCPTSGfrXCOfwj1ow4LFb/tNymJPwsNbVePc1xFqrQ==}
 
-  /@vavite/connect@4.0.2(vite@5.0.12):
-    resolution: {integrity: sha512-wEEjsKXUvmOEzQ5jJm33AAKmX9tNwjuxmTA5CHwHzria4QcjRUxgONo0jjhvIY4S+e9/gkf6e24rREjAGfgcfA==}
+  /@vavite/connect@4.1.0(vite@5.0.12):
+    resolution: {integrity: sha512-mEStRfX5agwww0DZjjpmH39VdspTIC6LbE74cPV0+d6k3Usjd7rAj+kj8zABU5bEwQlzt1/GyEMmvMHuxGe9+g==}
     peerDependencies:
       vite: ^2.8.1 || 3 || 4 || 5
     dependencies:
@@ -5425,8 +5425,8 @@ packages:
       vite: 5.0.12(@types/node@20.11.16)
     dev: false
 
-  /@vavite/multibuild@4.0.2(vite@5.0.12):
-    resolution: {integrity: sha512-pkaPDiSCFmTGiuF1qIkyjZcK4+tSEzIFJP5Ge4UXhf03X2JDR+/8SCIp0Nkj+n8fRSsQquk2naSkmoA8oGQFvw==}
+  /@vavite/multibuild@4.1.0(vite@5.0.12):
+    resolution: {integrity: sha512-sXMfMc6X1A+t8exrtVwq4xMO4tvCgJcp6B8u6CNIXSHi54WRO8bf+Ge87cFfVaiIHBlZkDXBI9BjPAP9t05rpQ==}
     peerDependencies:
       vite: ^2.8.1 || 3 || 4 || 5
     dependencies:
@@ -5436,8 +5436,8 @@ packages:
       vite: 5.0.12(@types/node@20.11.16)
     dev: false
 
-  /@vavite/node-loader@4.0.2(vite@5.0.12):
-    resolution: {integrity: sha512-8bPk16xYLThZEMWdFTuyD80WBzZ6pEQrqyylohlUG5WzHe7eJ1oDdqlRDikpMq2V6tKcd4dw148wZkrpFSVVWA==}
+  /@vavite/node-loader@4.1.0(vite@5.0.12):
+    resolution: {integrity: sha512-gfcPR2iqQJCXlmEe9mypZ6fVUcGWxSxCTf6ZMcytONXjdUPnmX04CTzYmCk4I0kxR/ot5wsNOx3mcZw96MHNJQ==}
     hasBin: true
     peerDependencies:
       vite: ^2.8.1 || 3 || 4 || 5
